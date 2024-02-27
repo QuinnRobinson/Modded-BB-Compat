@@ -1,7 +1,7 @@
 # Modded-BB-Compat
 A Cool Modded BareBones Compatibility Resource Pack
 
-This is a RESOURCE PACK that I made to create textures for different mods inspired by the BareBones Resource Pack. Nothing is directly taken from that resource pack UNLESS if it is a already an existing texture, or its an already existing texture with a couple minor changes I can draw over.
+This is a RESOURCE PACK that I made to create textures for different mods inspired by the BareBones Resource Pack. Nothing is directly taken from that resource pack UNLESS if it is already an existing texture, or its an already existing texture with a couple minor changes I can draw over.
 
 I WILL NOT make textures towards mods that have already been textures by others. This includes:
 - Detail Armor Bar
