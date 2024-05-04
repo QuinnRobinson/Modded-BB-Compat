@@ -29,10 +29,15 @@ This is a RESOURCE PACK that I made to create textures for different mods inspir
 
 Currently at the moment the mods that are included in this resource pack are:
 - Advanced Netherite
-
-Mods that will be added in the next update are:
 - Display Case
-- Universal Shops
+- Netherite Extras
+- Bountiful
+- Bal's Ender Expansion
+- Animal Feeding Trough
+
+Mods that will be added in the future are:
+- A Secret Mod (Date TBD)
+- Comforts
 
 Thats it for now. You can check here every couple of days to see if anything new will be added in the next update. (Updates will be listed below.)
 
@@ -41,3 +46,7 @@ Thats it for now. You can check here every couple of days to see if anything new
 - Removed Universal Shops From Production (Its A Head Item So I Cant Texture It Specifically)
 - Added Netherite Extras
 - Added Bountiful
+
+  UPDATE V1.2.0
+  - Added Bal's Ender Expansion
+  - Added Animal Feeding Trough
